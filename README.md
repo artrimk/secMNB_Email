@@ -3,6 +3,9 @@ Secure Mutltinomial Naive Bayes Email (feature selection, training and classific
 The source code for the original secure feature selection, training and classification algorithms based on Mutlinomial Naive Bayes over the Enron Email dataset used for experimental purposes of the journal paper:  
    Kjamilji, Artrim, Erkay Savaş, and Albert Levi, "Blockchain assisted secure feature selection, training and classifications in distributed edge IoT environments"
  
+Source code link (due to being over 25 MB since the dataset is also included): 
+https://drive.google.com/file/d/1UjR7l4DXLN6wlRp7StwXoVGvjAI5D0V8/view?usp=sharing 
+
 Link to the paper(s):
 TBD
 
