@@ -12,10 +12,10 @@ TBD
 Video presentation(s) of the paper:
 TBD
 
-Dataset info:
+Dataset info & link:
 Metsis, Vangelis, Ion Androutsopoulos, and Georgios Paliouras. "Spam filtering with naive bayes-which naive bayes?." CEAS. Vol. 17. 2006.
 
-Open the solution using Visual Studio 2017. Set the SEALExamples as the start-up project. The implementation uses Microsoft's SEAL library v3.2 found in https://github.com/microsoft/SEAL
+The dataset is already included with the uploaded secMNB_Email.rar package of the project. Just download & extract it and open the solution using Visual Studio 2017 or any other IDE of your choice. Set the SEALExamples as the start-up project. The implementation uses Microsoft's SEAL library v3.2 found in https://github.com/microsoft/SEAL
 For better communication and computation costs (performances), run the code in Release mode. 
 
 For any inqueries you can contact me by artrimq@gmail.com or artrimk@sabanciuniv.edu
